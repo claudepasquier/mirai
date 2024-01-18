@@ -8,3 +8,7 @@
   - Python implementation
   - Documentation writing
 
+## Denis Pallez
+- Email: denis.pallez@univ-cotedazur.fr
+- Contributions:
+  - Algorithm design
